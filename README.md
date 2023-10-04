@@ -1,5 +1,3 @@
-
-https://github.com/Shirish2004/Vegetation-Segmentation/assets/91938605/ffd7e1f0-1f1a-4d9f-a1ce-2fb3603e747c
 # Vegetation-Segmentation
 This repository shows the utilization of U-Net architecture to perform vegetation segmentation from street-view images of the IDD. 
 
