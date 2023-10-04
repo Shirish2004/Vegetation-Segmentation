@@ -1,0 +1,9 @@
+#created virtual enviornment using: "python -m venv semantic_segmentation_env"
+#added !#/path/to/venv/bin/python/ to the head of labelcreation.py file 
+#changed tqdm.write in labelcreation.py 
+#installed all the requirements using pip install -r requirements.txt
+#code used for creating the semantic segmentation files is :"python3 preperation/createLabels.py --datadir /home/sdsa/grp03/dataset/IDD_Segmentation/ --id-type level3Id --num-workers 10"
+#The above directory is of size 18GB
+#code for modifying another directory : "python3 preperation/createLabels.py --datadir /home/sdsa/grp03/dataset/idd20kII/ --id-type level3Id --num-workers 10"
+#the above directory is of size 5.5GB
+#Dataset made and the files are stored as 
