@@ -1,7 +1,7 @@
 
 https://github.com/Shirish2004/Vegetation-Segmentation/assets/91938605/ffd7e1f0-1f1a-4d9f-a1ce-2fb3603e747c
 # Vegetation-Segmentation
-This repository shows the utilization of U-Net architecture to perform vegetation segmentation from street-view images of the IDD. The following videos and images show an implementation of the model.
+This repository shows the utilization of U-Net architecture to perform vegetation segmentation from street-view images of the IDD. 
 
 The architecture of the model is drawn using the visualkeras module.
 
@@ -14,11 +14,12 @@ The architecture of the model is drawn using the visualkeras module.
 # Dataset
 The dataset has been adapted from the IDD-Segmentation, and to prepare one of your own, you could follow the comments mentioned in the scripts or carry your work with stored arrays. One can also work with the dataset specifically required for a similar task by cloning this repository and starting their work with the vegetation dataset.
 
-# Notebooks 
-There are different notebooks in this repository. For organization and EDA-related purposes, please have a look at the seg.ipynb file, and for further organization and model building, please follow tf_seg.ipynb.
+# Notebooks and Scripts
+There are different notebooks in this repository. For organization and EDA-related purposes, please have a look at the seg.ipynb file, and for further organization and model building, please follow tf_seg.ipynb. Also, look over the dataset_create.py and understand the comments for better reproducibility. 
 
 # Results and inference
-the real_time_inference_sematic_seg.py script shows the implementation of the model in real-time mode. The following video is an example.
+the real_time_inference_sematic_seg.py script shows the implementation of the model in real-time mode.
+
 ![Screenshot 2023-10-03 085414](https://github.com/Shirish2004/Vegetation-Segmentation/assets/91938605/b9f37233-ae17-4e19-8abb-f1e936a01122)
 ![Screenshot 2023-10-03 085432](https://github.com/Shirish2004/Vegetation-Segmentation/assets/91938605/6d7a6036-e8dd-47a3-9038-59bc66592d66)
 ![Screenshot 2023-10-03 085444](https://github.com/Shirish2004/Vegetation-Segmentation/assets/91938605/af1fd70d-a505-4cc7-94c0-dcbcffa2789a)
