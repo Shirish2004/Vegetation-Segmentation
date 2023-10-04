@@ -12,7 +12,7 @@ The architecture of the model is drawn using the visualkeras module.
 ![u_net_arch_2d](https://github.com/Shirish2004/Vegetation-Segmentation/assets/91938605/6bfed136-ec9d-47d0-adc1-81ca4a956353)
 
 # Dataset
-The dataset has been adapted from the IDD-Segmentation, and to prepare one of your own, you could follow the comments mentioned in the scripts or carry your work with stored arrays. One can also work with the dataset specifically required for a similar task by cloning this repository and starting their work with the vegetation dataset.
+The dataset has been adapted from the IDD-Segmentation, and to prepare one of your own, you could follow the comments mentioned in the scripts.
 
 # Notebooks and Scripts
 There are different notebooks in this repository. For organization and EDA-related purposes, please have a look at the seg.ipynb file, and for further organization and model building, please follow tf_seg.ipynb. Also, look over the dataset_create.py and understand the comments for better reproducibility. 
