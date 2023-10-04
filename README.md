@@ -2,10 +2,13 @@
 This repository shows the utilization of U-Net architecture to perform vegetation segmentation from street-view images of the IDD. The following videos and images show an implementation of the model.
 
 The architecture of the model is drawn using the visualkeras module.
-![u_net_arch_3d](https://github.com/Shirish2004/Vegetation-Segmentation/assets/91938605/1569fea6-411e-4e2f-919e-d9089b9c073f)
+
 ### U-Net architecture Layered View 3D
-![u_net_arch_2d](https://github.com/Shirish2004/Vegetation-Segmentation/assets/91938605/6bfed136-ec9d-47d0-adc1-81ca4a956353)
+![u_net_arch_3d](https://github.com/Shirish2004/Vegetation-Segmentation/assets/91938605/1569fea6-411e-4e2f-919e-d9089b9c073f)
+
 ### U-Net architecture Layered View 2D
+![u_net_arch_2d](https://github.com/Shirish2004/Vegetation-Segmentation/assets/91938605/6bfed136-ec9d-47d0-adc1-81ca4a956353)
+
 ![Screenshot 2023-10-03 085414](https://github.com/Shirish2004/Vegetation-Segmentation/assets/91938605/b9f37233-ae17-4e19-8abb-f1e936a01122)
 ![Screenshot 2023-10-03 085432](https://github.com/Shirish2004/Vegetation-Segmentation/assets/91938605/6d7a6036-e8dd-47a3-9038-59bc66592d66)
 ![Screenshot 2023-10-03 085444](https://github.com/Shirish2004/Vegetation-Segmentation/assets/91938605/af1fd70d-a505-4cc7-94c0-dcbcffa2789a)
